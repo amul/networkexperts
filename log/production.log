@@ -5959,3 +5959,11 @@ I, [2015-02-15T03:49:28.219704 #4787]  INFO -- : Started GET "/" for 12.167.51.3
 I, [2015-02-15T03:49:28.301882 #4787]  INFO -- : Processing by PagesController#home as HTML
 I, [2015-02-15T03:49:28.311835 #4787]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.5ms)
 I, [2015-02-15T03:49:28.313214 #4787]  INFO -- : Completed 200 OK in 11ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+I, [2015-02-15T04:04:51.895548 #4878]  INFO -- : Started GET "/" for 12.167.51.34 at 2015-02-15 04:04:51 +0000
+I, [2015-02-15T04:04:51.978590 #4878]  INFO -- : Processing by PagesController#home as HTML
+I, [2015-02-15T04:04:51.988350 #4878]  INFO -- :   Rendered pages/home.html.erb within layouts/application (0.5ms)
+I, [2015-02-15T04:04:51.989657 #4878]  INFO -- : Completed 200 OK in 11ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+I, [2015-02-15T05:56:15.844719 #4869]  INFO -- : Started GET "/" for 61.240.144.66 at 2015-02-15 05:56:15 +0000
+I, [2015-02-15T05:56:16.082623 #4869]  INFO -- : Processing by PagesController#home as */*
+I, [2015-02-15T05:56:16.108875 #4869]  INFO -- :   Rendered pages/home.html.erb within layouts/application (1.4ms)
+I, [2015-02-15T05:56:16.112417 #4869]  INFO -- : Completed 200 OK in 29ms (Views: 12.9ms | ActiveRecord: 0.0ms)
