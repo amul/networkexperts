@@ -5872,3 +5872,8 @@ I, [2015-02-15T02:50:49.176016 #3791]  INFO -- : Started GET "/" for 120.132.72.
 I, [2015-02-15T02:50:49.184782 #3791]  INFO -- : Processing by HomeController#index as HTML
 I, [2015-02-15T02:50:49.187108 #3791]  INFO -- :   Rendered home/index.html.erb within layouts/application (0.2ms)
 I, [2015-02-15T02:50:49.188431 #3791]  INFO -- : Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+I, [2015-02-15T03:16:03.083682 #3788]  INFO -- : Started GET "/" for 12.167.51.34 at 2015-02-15 03:16:03 +0000
+I, [2015-02-15T03:16:03.092701 #3788]  INFO -- : Processing by HomeController#index as HTML
+I, [2015-02-15T03:16:03.100828 #3788]  INFO -- :   Rendered home/index.html.erb within layouts/application (1.1ms)
+I, [2015-02-15T03:16:03.104144 #3788]  INFO -- : Completed 200 OK in 11ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+I, [2015-02-15T03:16:03.362994 #3791]  INFO -- : Started GET "/assets/rails.png" for 12.167.51.34 at 2015-02-15 03:16:03 +0000
